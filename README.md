@@ -18,8 +18,6 @@ Feel free to email me, DM me or simply follow.
 
 P.S. We are always looking for amazing TypeScript/Javascript/React Fullstack/Frontend or even SQL/Node/Express/GoLang developers. 😉
 
-📨 [Investors?](mailto:thabang@fordablc.com) <br>
-
 🐦 [Twitter](https://twitter.com/purethabang) <br>
 🌐 [Company](https://fordabl.com) <br>
 📩 [Email](mailto:thabang@fordabl.com) <br>
