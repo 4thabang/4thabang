@@ -6,30 +6,28 @@
 **4thabang/4thabang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Thabang | 19 | MCR, 🇬🇧 - SF, 🇺🇸 - JHB, 🇿🇦
+Thabang | 19 | MCR, UK - SF, USA - JHB, ZA
 
 Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at [Fordabl](https://fordabl.com). We create scalable software tools for the next-generation reseller to empower their autonomy and deliver scale, on their terms.
 
 Want to know more about the **$6b** sneaker resell market?
 
 <a href="https://www.youtube.com/watch?v=ez2cg-xo1L4">
-<img src="https://img.shields.io/badge/%F0%9F%8E%A5%20video-check%20this%20out-ff0000?style=flat-square" alt="Sneaker Reselling">
+< <img src="https://img.shields.io/badge/%F0%9F%8E%A5%20video-check%20this%20out-ff0000?style=flat-square" alt="Sneaker Reselling"> />
 </a>
-<br>
+
 
 P.S. We are always looking for amazing Frontend TypeScript, Javascript & React developers or even backend SQL, NodeJS, ExpressJS & GoLang developers. 😉
 
-
 <a href="https://twitter.com/purethabang">
 < <img src="https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square" alt="Twitter"> />
-</a><br>
+</a>
 <a href="https://fordabl.com">
 < <img src="https://img.shields.io/badge/%F0%9F%8C%90%20company-fordabl-ff9a44?style=flat-square" alt="Fordabl"> />
-</a> <br>
+</a>
 <a href="mailto:thabang@fordabl.com">
 < <img src="https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square" alt="Email"> />
-</a> <br>
-
+</a>
 
 ### 👨‍💻 Technologies:
 <p display="inline-flex">
