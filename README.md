@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/4M7IWwP.gif)
 
-### About Me & What I'm Working On:
+### 👋About Me & What I'm Working On:
 
 <!--
 **4thabang/4thabang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,22 +8,32 @@
 
 Thabang | 19 | MCR, UK - SF, USA
 
-Welcome to my world. My name is Thabang - pronounced 'Ta-bang' - I am a 19-year-old startup founder over at [Fordabl](https://fordabl.com). We create scalable software tools for the next-generation reseller to empower their autonomy and deliver scale, on their terms.
+Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at [Fordabl](https://fordabl.com). We create scalable software tools for the next-generation reseller to empower their autonomy and deliver scale, on their terms.
 
 Want to know more about the $6b sneaker resell market?
 
-🎥 [Check This Out](https://www.youtube.com/watch?v=ez2cg-xo1L4)
+<a href="https://www.youtube.com/watch?v=ez2cg-xo1L4">
+< <img src="https://img.shields.io/badge/%F0%9F%8E%A5%20video-check%20this%20out-ff0000?style=flat-square" alt="Sneaker Reselling"> />
+</a>
 
 Feel free to email me, DM me or simply follow. 
 
 P.S. We are always looking for amazing TypeScript/Javascript/React Fullstack/Frontend or even SQL/Node/Express/GoLang Backend developers. 😉
 
-🐦 [Twitter](https://twitter.com/purethabang) <br>
-🌐 [Company](https://fordabl.com) <br>
-📩 [Email](mailto:thabang@fordabl.com) <br>
 
-### Technologies:
-<p align="center" display="inline-flex">
+<a href="https://twitter.com/purethabang">
+< <img src="https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square" alt="Twitter"> />
+</a><br>
+<a href="https://fordabl.com">
+< <img src="https://img.shields.io/badge/%F0%9F%8C%90%20company-fordabl-ff9a44?style=flat-square" alt="Twitter"> />
+</a> <br>
+<a href="mailto:thabang@fordabl.com">
+< <img src="https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square" alt="Email"> />
+</a> <br>
+
+
+### 👨‍💻 Technologies:
+<p display="inline-flex">
 <!--Programming Languages-->
 <img src="https://img.shields.io/badge/Lang-TypeScript-3278C6?style=flat-square" alt="TypeScript">
 <img src="https://img.shields.io/badge/Lang-Javascript-F8C751?style=flat-square" alt="Javascript">
