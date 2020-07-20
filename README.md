@@ -19,7 +19,7 @@ Want to know more about the $6b sneaker resell market?
 
 Feel free to email me, DM me or simply follow. 
 
-P.S. We are always looking for amazing TypeScript/Javascript/React Fullstack/Frontend or even SQL/Node/Express/GoLang Backend developers. 😉
+P.S. We are always looking for amazing Frontend <img src="https://img.shields.io/badge/Lang-TypeScript-3278C6?style=flat-square" alt="TypeScript">, <img src="https://img.shields.io/badge/Lang-Javascript-F8C751?style=flat-square" alt="Javascript"> & <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square" alt="React"> developers or even backend <img src="https://img.shields.io/badge/Lang-SQL-336791?style=flat-square" alt="SQL">, <img src="https://img.shields.io/badge/Runtime-NodeJS-036E00?style=flat-square" alt="NodeJS">, <img src="https://img.shields.io/badge/Framework-ExpressJS-323232?style=flat-square" alt="ExpressJS"> & GoLang Backend developers. 😉
 
 
 <a href="https://twitter.com/purethabang">
@@ -47,7 +47,6 @@ P.S. We are always looking for amazing TypeScript/Javascript/React Fullstack/Fro
 <!--Runtime-->
 <img src="https://img.shields.io/badge/Runtime-NodeJS-036E00?style=flat-square" alt="NodeJS">
 <!--Frameworks-->
-
 <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square" alt="React">
 <img src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?style=flat-square" alt="React Native">
 <img src="https://img.shields.io/badge/Framework-NextJS-111111?style=flat-square" alt="NextJS">
