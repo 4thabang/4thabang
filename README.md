@@ -10,16 +10,14 @@ Thabang | 19 | MCR, 🇬🇧 - SF, 🇺🇸 - JHB, 🇿🇦
 
 Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at [Fordabl](https://fordabl.com). We create scalable software tools for the next-generation reseller to empower their autonomy and deliver scale, on their terms.
 
-Want to know more about the $6b sneaker resell market?
+Want to know more about the **$6b** sneaker resell market?
 
 <a href="https://www.youtube.com/watch?v=ez2cg-xo1L4">
 <img src="https://img.shields.io/badge/%F0%9F%8E%A5%20video-check%20this%20out-ff0000?style=flat-square" alt="Sneaker Reselling">
 </a>
 <br>
 
-Feel free to email me, DM me or simply follow. 
-
-P.S. We are always looking for amazing Frontend TypeScript, Javascript & React developers or even backend SQL, NodeJS, ExpressJS & GoLang Backend developers. 😉
+P.S. We are always looking for amazing Frontend TypeScript, Javascript & React developers or even backend SQL, NodeJS, ExpressJS & GoLang developers. 😉
 
 
 <a href="https://twitter.com/purethabang">
