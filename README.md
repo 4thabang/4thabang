@@ -21,13 +21,13 @@ P.S. We are always looking for amazing Frontend TypeScript, Javascript & React d
 
 <a href="https://twitter.com/purethabang">
 < <img src="https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square" alt="Twitter"> />
-</a>
+</a> <br>
 <a href="https://fordabl.com">
 < <img src="https://img.shields.io/badge/%F0%9F%8C%90%20company-fordabl-ff9a44?style=flat-square" alt="Fordabl"> />
-</a>
+</a> <br>
 <a href="mailto:thabang@fordabl.com">
 < <img src="https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square" alt="Email"> />
-</a>
+</a> <br>
 
 ### 👨‍💻 Technologies:
 <p display="inline-flex">
