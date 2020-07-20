@@ -1,10 +1,5 @@
 ![](https://i.imgur.com/4M7IWwP.gif)
 
-<p align="center">
-<img width="10%" src="https://s3.eu-west-2.amazonaws.com/kickxplug.com/PersonalPP.jpg" alt="Me">
-</p>
-<br>
-
 ### 👋About Me & What I'm Working On:
 
 <!--
