@@ -1,5 +1,10 @@
 ![](https://i.imgur.com/4M7IWwP.gif)
 
+<p align="center">
+<img width="10%" src="https://s3.eu-west-2.amazonaws.com/kickxplug.com/PersonalPP.jpg" alt="Me">
+</p>
+<br>
+
 ### 👋About Me & What I'm Working On:
 
 <!--
@@ -15,6 +20,7 @@ Want to know more about the $6b sneaker resell market?
 <a href="https://www.youtube.com/watch?v=ez2cg-xo1L4">
 < <img src="https://img.shields.io/badge/%F0%9F%8E%A5%20video-check%20this%20out-ff0000?style=flat-square" alt="Sneaker Reselling"> />
 </a>
+<br>
 
 Feel free to email me, DM me or simply follow. 
 
@@ -25,7 +31,7 @@ P.S. We are always looking for amazing TypeScript/Javascript/React Fullstack/Fro
 < <img src="https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square" alt="Twitter"> />
 </a><br>
 <a href="https://fordabl.com">
-< <img src="https://img.shields.io/badge/%F0%9F%8C%90%20company-fordabl-ff9a44?style=flat-square" alt="Twitter"> />
+< <img src="https://img.shields.io/badge/%F0%9F%8C%90%20company-fordabl-ff9a44?style=flat-square" alt="Fordabl"> />
 </a> <br>
 <a href="mailto:thabang@fordabl.com">
 < <img src="https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square" alt="Email"> />
