@@ -19,7 +19,7 @@ Want to know more about the $6b sneaker resell market?
 
 Feel free to email me, DM me or simply follow. 
 
-P.S. We are always looking for amazing Frontend <img src="https://img.shields.io/badge/Lang-TypeScript-3278C6?style=flat-square" alt="TypeScript">, <img src="https://img.shields.io/badge/Lang-Javascript-F8C751?style=flat-square" alt="Javascript"> & <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square" alt="React"> developers or even backend <img src="https://img.shields.io/badge/Lang-SQL-336791?style=flat-square" alt="SQL">, <img src="https://img.shields.io/badge/Runtime-NodeJS-036E00?style=flat-square" alt="NodeJS">, <img src="https://img.shields.io/badge/Framework-ExpressJS-323232?style=flat-square" alt="ExpressJS"> & GoLang Backend developers. 😉
+P.S. We are always looking for amazing Frontend TypeScript, Javascript & React developers or even backend SQL, NodeJS, ExpressJS & GoLang Backend developers. 😉
 
 
 <a href="https://twitter.com/purethabang">
