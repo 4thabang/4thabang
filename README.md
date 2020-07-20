@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/4M7IWwP.gif)
 
-### About Me & What I Do:
+### About Me & What I'm Working On:
 
 <!--
 **4thabang/4thabang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
