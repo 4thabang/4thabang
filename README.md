@@ -16,7 +16,7 @@ Want to know more about the $6b sneaker resell market?
 
 Feel free to email me, DM me or simply follow. 
 
-P.S. We are always looking for amazing TypeScript/Javascript/React Fullstack/Frontend or even SQL/Node/Express/GoLang developers. 😉
+P.S. We are always looking for amazing TypeScript/Javascript/React Fullstack/Frontend or even SQL/Node/Express/GoLang Backend developers. 😉
 
 🐦 [Twitter](https://twitter.com/purethabang) <br>
 🌐 [Company](https://fordabl.com) <br>
