@@ -19,6 +19,7 @@ Want to know more about the **$6b** sneaker resell market?
 
 P.S. We are always looking for amazing Frontend TypeScript, Javascript & React developers or even backend SQL, NodeJS, ExpressJS & GoLang developers. 😉
 
+### 📨 Contact:
 <a href="https://twitter.com/purethabang">
 < <img src="https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square" alt="Twitter"> />
 </a> <br>
