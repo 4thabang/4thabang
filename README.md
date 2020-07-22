@@ -6,7 +6,7 @@
 **4thabang/4thabang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Thabang | 19 | MCR, UK - SF, USA - JHB, ZA
+Thabang | 19 | MCR, UK - SF, USA - JHB, 
 
 Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at [Fordabl](https://fordabl.com). We create scalable software tools for the next-generation reseller to empower their autonomy and deliver scale, on their terms.
 
@@ -35,7 +35,7 @@ P.S. We are always looking for amazing Frontend TypeScript, Javascript & React d
 <!--Programming Languages-->
 <img src="https://img.shields.io/badge/Lang-TypeScript-3278C6?style=flat-square" alt="TypeScript">
 <img src="https://img.shields.io/badge/Lang-Javascript-F8C751?style=flat-square" alt="Javascript">
-<img src="https://img.shields.io/badge/Lang-SQL-336791?style=flat-square" alt="SQL">
+<img src="https://img.shields.io/badge/Lang-SQL-336791?style=flat-square" alt="PSQL">
 <img src="https://img.shields.io/badge/Lang-Dart-41C4FF?style=flat-square" alt="Dart">
 <!--DBMS/DB-->
 <img src="https://img.shields.io/badge/DB-PostgresSQL-336791?style=flat-square" alt="PostgreSQL">
