@@ -35,7 +35,7 @@ P.S. We are always looking for amazing Frontend TypeScript, Javascript & React d
 <!--Programming Languages-->
 <img src="https://img.shields.io/badge/Lang-TypeScript-3278C6?style=flat-square" alt="TypeScript">
 <img src="https://img.shields.io/badge/Lang-Javascript-F8C751?style=flat-square" alt="Javascript">
-<img src="https://img.shields.io/badge/Lang-SQL-336791?style=flat-square" alt="PSQL">
+<img src="https://img.shields.io/badge/Lang-SQL-336791?style=flat-square" alt="SQL">
 <img src="https://img.shields.io/badge/Lang-Dart-41C4FF?style=flat-square" alt="Dart">
 <!--DBMS/DB-->
 <img src="https://img.shields.io/badge/DB-PostgresSQL-336791?style=flat-square" alt="PostgreSQL">
