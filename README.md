@@ -6,7 +6,7 @@
 **4thabang/4thabang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Thabang | 19 | MCR, UK - SF, USA - JHB, ZA
+Thabang | 19 | MCR, UK 🇬🇧 - SF, USA 🇺🇸 - JHB, ZA 🇿🇦
 
 Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at [Fordabl](https://fordabl.com). We create scalable software tools for the next-generation reseller to empower their autonomy and deliver scale, on their terms.
 
