@@ -1,10 +1,5 @@
 ![](https://i.imgur.com/4M7IWwP.gif)
 
-<div display="inline-flex">
-<img src="https://i.imgur.com/4M7IWwP.gif" alt="gif">
-<img src="https://i.imgur.com/4M7IWwP.gif" alt="gif">
-</div>
-
 ### 👋About Me & What I'm Working On:
 
 <!--
@@ -56,9 +51,5 @@ P.S. We are always looking for amazing Frontend TypeScript, Javascript & React d
 <img src="https://img.shields.io/badge/Framework-Flutter-45D1FD?style=flat-square" alt="Flutter">
 </p>
 
-<div display="inline-flex">
-<img src="https://i.imgur.com/4M7IWwP.gif" alt="gif">
-<img src="https://i.imgur.com/4M7IWwP.gif" alt="gif">
-</div>
 
 ![](https://i.imgur.com/4M7IWwP.gif)
