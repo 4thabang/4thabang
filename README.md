@@ -16,6 +16,7 @@ Want to know more about the **$6b** sneaker resell market?
 < <img src="https://img.shields.io/badge/%F0%9F%8E%A5%20video-check%20this%20out-ff0000?style=flat-square" alt="Sneaker Reselling"> />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4thabang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 P.S. We are always looking for amazing Frontend TypeScript, Javascript & React developers or even backend SQL, NodeJS, ExpressJS & GoLang developers. 😉
 
