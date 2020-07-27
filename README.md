@@ -51,17 +51,5 @@ P.S. We are always looking for amazing Frontend TypeScript, Javascript & React d
 <img src="https://img.shields.io/badge/Framework-Flutter-45D1FD?style=flat-square" alt="Flutter">
 </p>
 
-```tsx
-interface Cool {
-  name?: string;
-}
-
-const greet = (name: Cool) => {
-  return `Hello, ${name}`;
-}
-
-console.log(greet());
-```
-
 
 ![](https://i.imgur.com/4M7IWwP.gif)
