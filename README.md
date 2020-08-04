@@ -1,5 +1,3 @@
-![](https://i.imgur.com/4M7IWwP.gif)
-
 ### 👋About Me & What I'm Working On:
 
 <!--
@@ -49,6 +47,3 @@ P.S. We are always looking for amazing Frontend TypeScript, Javascript & React d
 <img src="https://img.shields.io/badge/Framework-ExpressJS-323232?style=flat-square" alt="ExpressJS">
 <img src="https://img.shields.io/badge/Framework-Flutter-45D1FD?style=flat-square" alt="Flutter">
 </p>
-
-
-![](https://i.imgur.com/4M7IWwP.gif)
