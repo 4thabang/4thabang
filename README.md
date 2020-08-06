@@ -1,4 +1,4 @@
-## 👋About Me & What I'm Working On:
+## 👋About Me:
 
 <!--
 **4thabang/4thabang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,10 @@
 
 Thabang | 19 | MCR, UK - SF, USA
 
-Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at [Fordabl](https://fordabl.com). We create scalable, collaborative and performant software tools for the next-generation reseller to empower their autonomy whilst saving them thousands in the process, on their terms.
+Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at [Fordabl](https://fordabl.com). 
+
+## 🚀 What I'm Working On
+At Fordabl we create scalable, collaborative and performant software tools for the next-generation reseller to empower their autonomy whilst saving them thousands in the process, on their terms.
 
 Want to know more about the **$6b** sneaker resell market?
 
