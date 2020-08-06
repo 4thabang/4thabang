@@ -13,8 +13,7 @@ Want to know more about the **$6b** sneaker resell market?
 <a href="https://www.youtube.com/watch?v=ez2cg-xo1L4">
 < <img src="https://img.shields.io/badge/%F0%9F%8E%A5%20video-check%20this%20out-ff0000?style=flat-square" alt="Sneaker Reselling"> />
 </a>
-
-P.S. We are always looking for amazing Frontend TypeScript, Javascript & React developers or even backend SQL, NodeJS, ExpressJS & GoLang developers. 😉
+<hr>
 
 ### 📨 Contact:
 <a href="https://twitter.com/purethabang">
@@ -26,6 +25,7 @@ P.S. We are always looking for amazing Frontend TypeScript, Javascript & React d
 <a href="mailto:thabang@fordabl.com">
 < <img src="https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square" alt="Email"> />
 </a> <br>
+<hr>
 
 ### 👨‍💻 Technologies:
 <p display="inline-flex">
