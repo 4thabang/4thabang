@@ -16,8 +16,8 @@ Want to know more about the **$6b** sneaker resell market?
 < ![Sneaer Video](https://img.shields.io/badge/%F0%9F%8E%A5%20video-check%20this%20out-ff0000?style=flat-square) />
 
 ## 📨 Contact:
-< ![Twitter](https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square) />
-< ![Company](https://img.shields.io/badge/%F0%9F%8C%90%20company-fordabl-ff9a44?style=flat-square) />
+< ![Twitter](https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square) />  
+< ![Company](https://img.shields.io/badge/%F0%9F%8C%90%20company-fordabl-ff9a44?style=flat-square) />  
 < ![Email Me](https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square) />
 
 
