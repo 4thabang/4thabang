@@ -39,5 +39,10 @@ Want to know more about the **$6b** sneaker resell market?
 <img src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?style=flat-square" alt="React Native">
 <img src="https://img.shields.io/badge/Framework-NextJS-111111?style=flat-square" alt="NextJS">
 <img src="https://img.shields.io/badge/Framework-ExpressJS-323232?style=flat-square" alt="ExpressJS">
-<img src="https://img.shields.io/badge/Framework-Flutter-45D1FD?style=flat-square" alt="Flutter">
+<img src="https://img.shields.io/badge/Framework-Flutter-085A9D?style=flat-square" alt="Flutter">
 </p>
+
+
+## 🧠 Currently Learning:
+- [ ] ![Twitter](https://img.shields.io/badge/Tool-Redux-764ABC?style=flat-square)
+- [ ] ![Twitter](https://img.shields.io/badge/Lang-GoLang-7FD5EA?style=flat-square)
