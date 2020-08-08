@@ -9,7 +9,7 @@ Thabang | 19 | MCR, UK - SF, USA
 Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at [Fordabl](https://fordabl.com). 
 
 ## 🚀 Working On:
-At Fordabl we create scalable, collaborative and performant software tools for the next-generation reseller to empower their autonomy whilst saving them thousands in the process, on their terms.
+At Fordabl we create scalable, collaborative and performant software tools for the next-generation reseller to empower their autonomy whilst saving them thousands in the process and delivering productivity to their teams, on their terms.
 
 Want to know more about the **$6b** sneaker resell market?
 
