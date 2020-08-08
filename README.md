@@ -45,4 +45,4 @@ Want to know more about the **$6b** sneaker resell market?
 
 ## 🧠 Currently Learning:
 - [ ] ![Twitter](https://img.shields.io/badge/Tool-Redux-764ABC?style=flat-square)
-`<addr>` - [ ] ![Twitter](https://img.shields.io/badge/Lang-GoLang-7FD5EA?style=flat-square)
+- [ ] ![Twitter](https://img.shields.io/badge/Lang-GoLang-7FD5EA?style=flat-square)
