@@ -24,23 +24,23 @@ Want to know more about the **$6b** sneaker resell market?
 ## 👨‍💻 Technologies:
 <p display="inline-flex">
 <!--Programming Languages-->
-<img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript">
-<img height="20" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript">
-<!-- <img height="20" src="https://img.shields.io/badge/Lang-SQL-336791?style=flat-square" alt="SQL"> -->
-<img height="20" src="https://cdn.svgporn.com/logos/dart.svg" alt="Dart">
+<img src="https://img.shields.io/badge/Lang-TypeScript-3278C6?style=flat-square" alt="TypeScript">
+ <img src="https://img.shields.io/badge/Lang-JavaScript-F8C751?style=flat-square" alt="Javascript">
+ <img src="https://img.shields.io/badge/Lang-SQL-336791?style=flat-square" alt="SQL">
+ <img src="https://img.shields.io/badge/Lang-Dart-41C4FF?style=flat-square" alt="Dart">
 <!--DBMS/DB-->
-<img height="20" src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL">
-<img height="20" src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase">
-<img height="20" src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB">
+<img src="https://img.shields.io/badge/DB-PostgresSQL-336791?style=flat-square" alt="PostgreSQL">
+ <img src="https://img.shields.io/badge/DB-Firebase-FFCB2B?style=flat-square" alt="Firebase">
+ <img src="https://img.shields.io/badge/DB-MongoDB-13AA52?style=flat-square" alt="MongoDB">
 <!--Runtime-->
-<img height="20" src="https://cdn.svgporn.com/logos/nodejs.svg" alt="NodeJS">
+<img src="https://img.shields.io/badge/Runtime-NodeJS-036E00?style=flat-square" alt="NodeJS">
 <!--Tools-->
-<img height="20" src="https://cdn.svgporn.com/logos/vim.svg" alt="Vim">
-<img height="20" src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux">
+<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim">
+<img src="https://img.shields.io/badge/Tool-Redux-764ABC?style=flat-square" alt="Redux">
 <!--Frameworks-->
-<img height="20" src="https://cdn.svgporn.com/logos/react.svg" alt="React">
-<img height="20" src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?style=flat-square" alt="React Native">
-<img height="20" src="https://img.shields.io/badge/Framework-NextJS-111111?style=flat-square" alt="NextJS">
-<img height="20" src="https://img.shields.io/badge/Framework-ExpressJS-323232?style=flat-square" alt="ExpressJS">
-<img height="20" src="https://img.shields.io/badge/Framework-Flutter-085A9D?style=flat-square" alt="Flutter">
+<img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square" alt="React">
+ <img src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?style=flat-square" alt="React Native">
+ <img src="https://img.shields.io/badge/Framework-NextJS-111111?style=flat-square" alt="NextJS">
+ <img src="https://img.shields.io/badge/Framework-ExpressJS-323232?style=flat-square" alt="ExpressJS">
+ <img src="https://img.shields.io/badge/Framework-Flutter-085A9D?style=flat-square" alt="Flutter">
 </p>
