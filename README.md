@@ -43,7 +43,10 @@ Want to know more about the **$6b** sneaker resell market?
 </p>
 
 
-## 🧠 Learning Schedule [In Order]:
-- [ ] ![Redux](https://img.shields.io/badge/Tool-Redux-764ABC?style=flat-square)
-- [ ] ![GoLang](https://img.shields.io/badge/Lang-GoLang-7FD5EA?style=flat-square)
-- [ ] ![Vim](https://img.shields.io/badge/Tool-Vim-009833?style=flat-square)
+## 🧠 Learning Schedule:
+Technologies I am interested in and will be learning sometime in the future (or now), in order.
+| Languages     | Framework/Lib | Tools |
+| ------------- |:-------------:| -----:|
+| ![GoLang](https://img.shields.io/badge/Lang-Go-7FD5EA?style=flat-square)      | ![Fiber](https://img.shields.io/badge/Framework-Fiber-183055?style=flat-square) | ![Redux](https://img.shields.io/badge/Tool-Redux-764ABC?style=flat-square) |
+| ![Rust](https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square)      | ...  |   ![Vim](https://img.shields.io/badge/Tool-Vim-009833?style=flat-square) |
+| ![Python](https://img.shields.io/badge/Lang-Python-346EA1?style=flat-square) | ![PyTorch](https://img.shields.io/badge/Lib-PyTorch-EE4C2B?style=flat-square)      |    ... |
