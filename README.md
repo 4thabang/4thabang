@@ -41,12 +41,3 @@ Want to know more about the **$6b** sneaker resell market?
 <img src="https://img.shields.io/badge/Framework-ExpressJS-323232?style=flat-square" alt="ExpressJS">
 <img src="https://img.shields.io/badge/Framework-Flutter-085A9D?style=flat-square" alt="Flutter">
 </p>
-
-
-## 🧠 Learning Schedule:
-Technologies I am interested in and will be learning sometime in the future (or now), in order.
-| Languages     | Framework/Lib | Tools |
-| ------------- |:-------------:| -----:|
-| ![GoLang](https://img.shields.io/badge/Lang-Go-7FD5EA?style=flat-square)      | ![Fiber](https://img.shields.io/badge/Framework-Fiber-183055?style=flat-square) | ![Redux](https://img.shields.io/badge/Tool-Redux-764ABC?style=flat-square) |
-| ![Rust](https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square)      | ...  |   ![Vim](https://img.shields.io/badge/Tool-Vim-009833?style=flat-square) |
-| ![Python](https://img.shields.io/badge/Lang-Python-346EA1?style=flat-square) | ![PyTorch](https://img.shields.io/badge/Lib-PyTorch-EE4C2B?style=flat-square)      |    ... |
