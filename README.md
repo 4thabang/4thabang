@@ -34,9 +34,6 @@ Want to know more about the **$6b** sneaker resell market?
  <img src="https://img.shields.io/badge/DB-MongoDB-13AA52?style=flat-square" alt="MongoDB">
 <!--Runtime-->
 <img src="https://img.shields.io/badge/Runtime-NodeJS-036E00?style=flat-square" alt="NodeJS">
-<!--Tools-->
-<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim">
-<img src="https://img.shields.io/badge/Tool-Redux-764ABC?style=flat-square" alt="Redux">
 <!--Frameworks-->
 <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square" alt="React">
  <img src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?style=flat-square" alt="React Native">
