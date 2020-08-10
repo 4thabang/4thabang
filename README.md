@@ -41,3 +41,12 @@ Want to know more about the **$6b** sneaker resell market?
  <img src="https://img.shields.io/badge/Framework-ExpressJS-323232?style=flat-square" alt="ExpressJS">
  <img src="https://img.shields.io/badge/Framework-Flutter-085A9D?style=flat-square" alt="Flutter">
 </p>
+
+## 🧠 Learning Timeline:
+Technologies I am interested in, learning. More will be added as some are ticked off. These are ordered in terms of curiosity, utility and challenging. I will have no more than 3 at a time.
+
+<p display="inline-flex">
+1. <img src="https://img.shields.io/badge/Lang-Go-7FD5EA?style=flat-square" alt="GoLang">
+2. <img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim">
+3. <img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust">
+</p>
