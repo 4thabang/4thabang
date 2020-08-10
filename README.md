@@ -43,7 +43,7 @@ Want to know more about the **$6b** sneaker resell market?
 </p>
 
 ## 🧠 Learning Timeline:
-Technologies I am interested in, learning. More will be added as some are ticked off. These are ordered in terms of curiosity, utility and challenging. I will have no more than 3 at a time.
+Technologies I am interested in, learning. More will be added as some are ticked off. These are ordered in terms of personal curiosity, the utility and the overall challenge.
 
 <p display="inline-flex">
 1. <img src="https://img.shields.io/badge/Lang-Go-7FD5EA?style=flat-square" alt="GoLang">
