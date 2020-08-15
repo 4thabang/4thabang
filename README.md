@@ -7,6 +7,11 @@
 Thabang | 19 | MCR, UK - SF, USA
 
 Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at [Fordabl](https://fordabl.com). 
+<br>
+<br>
+<img src="https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square" alt="Twitter"> 
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20company-fordabl-ff9a44?style=flat-square" alt="Fordabl"> 
+<img src="https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square" alt="Email">
 
 ## 🚀 Working On:
 At Fordabl we create scalable, collaborative and performant software tools for the next-generation reseller to empower their autonomy whilst saving them thousands in the process and delivering productivity to their teams, on their terms.
@@ -15,10 +20,10 @@ Want to know more about the **$6b** sneaker resell market?
 
 < ![Sneaer Video](https://img.shields.io/badge/%F0%9F%8E%A5%20video-check%20this%20out-ff0000?style=flat-square) />
 
-## 📨 Contact:
-< ![Twitter](https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square) />  
-< ![Company](https://img.shields.io/badge/%F0%9F%8C%90%20company-fordabl-ff9a44?style=flat-square) />  
-< ![Email Me](https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square) />
+[Comment]: <> (## 📨 Contact:)
+[Comment]: <> (https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square)
+[Comment]: <> (https://img.shields.io/badge/%F0%9F%8C%90%20company-fordabl-ff9a44?style=flat-square)
+[Comment]: <> (https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square)
 
 
 ## 👨‍💻 Technologies:
@@ -45,7 +50,7 @@ Want to know more about the **$6b** sneaker resell market?
 </p>
 
 ## 🧠 Learning Timeline:
-Technologies I am interested in, learning. More will be added as some are ticked off. These are ordered in terms of personal curiosity, their utility and the overall challenge.
+Technologies I am interested in learning. More will be added as some are ticked off. These are ordered in terms of personal curiosity, their utility and the overall challenge.
 
 <p display="inline-flex">
 <code>1.<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim"></code>
