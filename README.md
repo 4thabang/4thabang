@@ -53,7 +53,7 @@ Want to know more about the **$6b** sneaker resell market?
 Technologies I am interested in learning. More will be added as some are ticked off. These are ordered in terms of personal curiosity, their utility and the overall challenge.
 
 <p display="inline-flex">
-<code>1.<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim"></code>
-<code>2.<img src="https://img.shields.io/badge/Lang-Go-7FD5EA?style=flat-square" alt="GoLang"></code>
+<code>1.<img src="https://img.shields.io/badge/Lang-Go-7FD5EA?style=flat-square" alt="GoLang"></code>
+<code>2.<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim"></code>
 <code>3.<img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust"></code>
 </p>
