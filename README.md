@@ -18,7 +18,7 @@ At Fordabl we create scalable, collaborative and performant software tools for t
 
 Want to know more about the **$6b** sneaker resell market?
 
-< ![Sneaer Video](https://img.shields.io/badge/%F0%9F%8E%A5%20video-check%20this%20out-ff0000?style=flat-square) />
+![Sneaer Video](https://img.shields.io/badge/%F0%9F%8E%A5%20video-check%20this%20out-ff0000?style=flat-square)
 
 [Comment]: <> (## 📨 Contact:)
 [Comment]: <> (https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square)
