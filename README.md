@@ -57,4 +57,5 @@ Technologies I am interested in learning. More will be added as some are ticked 
 <code>1.<img src="https://img.shields.io/badge/Lang-Go-7FD5EA?style=flat-square" alt="GoLang"></code>
 <code>2.<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim"></code>
 <code>3.<img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust"></code>
+<code>4.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
 </p>
