@@ -15,7 +15,7 @@ Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at 
 
 ## 🚀 Working On:
 **Something cool. Will update when ready!**
-***
+<br/>
 **If you are interested in ML/Software and your stack has some or all of the below technologies - [contact me](mailto:thabang@fordabl.com)!**
 - [x] Machine Learning<br/>
 **-&-**
