@@ -14,7 +14,7 @@ Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at 
 <img src="https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square" alt="Email">
 
 ## 🚀 Working On:
-**Something cool. Will update when ready!**<br/>
+**Something cool. Will update when ready!**
 **If you are interested in ML/Software and your tech stack is close to mine (*below*) - [contact me](mailto:thabang@fordabl.com)!**
 - [x] Machine Learning<br/>
 **-&-**
