@@ -1,4 +1,4 @@
-## 👋 About Me:
+### 👋 About Me:
 
 <!--
 **4thabang/4thabang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,12 +13,12 @@ Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at 
 <img src="https://img.shields.io/badge/%F0%9F%8C%90%20company-fordabl-ff9a44?style=flat-square" alt="Fordabl"> 
 <img src="https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square" alt="Email">
 
-## 🚀 Working On:
-**Something cool. Will update when ready!**
+### 🚀 Working On:
+Something cool. Will update when ready!
 <br/>
-**If you are interested in ML/Software and your stack has some or all of the below technologies - [get in touch](mailto:thabang@fordabl.com)!**
+If you are interested in ML/Software and your stack has some or all of the below technologies - [get in touch](mailto:thabang@fordabl.com)!
 - [x] Machine Learning<br/>
-**-&-**
+-&-
 - [x] Software<br/>
 
 [Comment]: <> (## 📨 Contact:)
@@ -27,7 +27,7 @@ Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at 
 [Comment]: <> (https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square)
 
 
-## 👨‍💻 Technologies:
+### 👨‍💻 Technologies:
 <p display="inline-flex">
 <!--Programming Languages-->
 <img src="https://img.shields.io/badge/Lang-TypeScript-3278C6?style=flat-square" alt="TypeScript">
@@ -52,7 +52,7 @@ Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at 
 <img src="https://img.shields.io/badge/Framework-Flutter-085A9D?style=flat-square" alt="Flutter">
 </p>
 
-## 🧠 Learning Timeline:
+### 🧠 Learning Timeline:
 Technologies I am interested in learning. More will be added as some are ticked off. These are ordered in terms of personal curiosity, their utility and the overall challenge.
 
 <p display="inline-flex">
