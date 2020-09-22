@@ -7,11 +7,6 @@
 Thabang | 19 | MCR, UK - SF, USA
 
 Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at [Fordabl](https://fordabl.com). 
-<br>
-<br>
-<img src="https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square" alt="Twitter"> 
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20company-fordabl-ff9a44?style=flat-square" alt="Fordabl"> 
-<img src="https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square" alt="Email">
 
 ### 🚀 Working On:
 Something cool. Will update when ready!
