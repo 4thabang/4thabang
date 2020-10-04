@@ -11,7 +11,7 @@ Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder and full
 ### 🚀 Working On:
 I am currently working on [deploi.ai](https://github.com/deploiai).
 <br/>
-If you are interested in `ML`, `Software` or `Data Science` and you have `Go`, ```TypeScript/JS```, ```React```, ```Python``` or ```Docker``` experience - [get in touch](mailto:thabang@fordabl.com)!
+If you are interested in `ML`, `Software` or `Data Science` and you have `Go`, `TypeScript`, `React`, `Python` or `Docker` experience - [get in touch](mailto:thabang@fordabl.com)!
 
 [Comment]: <> (## 📨 Contact:)
 [Comment]: <> (https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square)
