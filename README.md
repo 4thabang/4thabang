@@ -6,7 +6,7 @@
 
 Thabang | 19 | MCR, UK - SF, USA
 
-Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder over at [Fordabl](https://fordabl.com). 
+Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder and full-stack developer. 
 
 ### 🚀 Working On:
 Something cool. Will update when ready!
