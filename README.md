@@ -9,9 +9,9 @@ Thabang | 19 | MCR, UK - SF, USA
 Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder and full-stack developer. 
 
 ### 🚀 Working On:
-Something cool. Will update when ready!
+[deploi.ai](https://github.com/deploiai)
 <br/>
-If you are interested in ML/Software and your stack has some or all of the below technologies - [get in touch](mailto:thabang@fordabl.com)!
+If you are interested in ML/Software and you have Go, TypeScript/JS, React, Python or Docker experience - [get in touch](mailto:thabang@fordabl.com)!
 - [x] Machine Learning<br/>
 -&-
 - [x] Software<br/>
