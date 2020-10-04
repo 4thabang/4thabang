@@ -1,20 +1,17 @@
-### 👋 About Me:
-
 <!--
 **4thabang/4thabang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+### 👋 About Me:
 
 Thabang | 19 | MCR, UK - SF, USA
 
 Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder and full-stack developer. 
 
 ### 🚀 Working On:
-[deploi.ai](https://github.com/deploiai)
+I am currently working on [deploi.ai](https://github.com/deploiai)
 <br/>
 If you are interested in ML/Software and you have Go, TypeScript/JS, React, Python or Docker experience - [get in touch](mailto:thabang@fordabl.com)!
-- [x] Machine Learning<br/>
--&-
-- [x] Software<br/>
 
 [Comment]: <> (## 📨 Contact:)
 [Comment]: <> (https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square)
