@@ -6,7 +6,7 @@
 
 Thabang | 19 | MCR, UK - SF, USA
 
-Hey! My name is Thabang - pronounced 'Ta-bang' - I am a startup founder and full-stack developer. 
+Hey! My name is Thabang - pronounced 'Ta-bang' - I’m a backend engineer with a keen eye for frontend design and intuitive state management
 
 ### 🚀 Working On:
 I am currently working on [deploi.ai](https://github.com/deploiai).
