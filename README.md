@@ -43,7 +43,7 @@ If you are interested in `ML`, `Software` or `Data Science` and you have [`Go`](
 </p>
 
 ### 🧠 Learning Timeline:
-These are the technologies I am interested in learning. More will be added as some are ticked off. These are ordered in terms of personal curiosity, their utility and the overall challenge.
+These are the technologies I am interested in learning. They are ordered in terms of personal curiosity, their utility and the overall challenge.
 
 <p display="inline-flex">
 <code>1.<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim"></code>
