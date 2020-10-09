@@ -6,7 +6,7 @@
 
 Thabang | 19 | MCR, UK - SF, USA
 
-Hey! My name is Thabang - pronounced 'Ta-bang' - I’m a backend engineer with a keen eye for frontend design and intuitive state management
+Hey! My name is Thabang - pronounced 'Ta-bang' - I am a backend engineer with a keen eye for frontend design and intuitive state management
 
 ### 🚀 Working On:
 I am currently working on [deploi.ai](https://github.com/deploiai).
@@ -26,7 +26,6 @@ If you are interested in `ML`, `Software` or `Data Science` and you have [`Go`](
 <img src="https://img.shields.io/badge/Lang-Go-7FD5EA?style=flat-square" alt="GoLang">
 <img src="https://img.shields.io/badge/Lang-JavaScript-F8C751?style=flat-square" alt="Javascript">
 <img src="https://img.shields.io/badge/Lang-SQL-336791?style=flat-square" alt="SQL">
-<img src="https://img.shields.io/badge/Lang-Dart-41C4FF?style=flat-square" alt="Dart">
 <!--DBMS/DB-->
 <img src="https://img.shields.io/badge/DB-PostgresSQL-336791?style=flat-square" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/DB-Firebase-FFCB2B?style=flat-square" alt="Firebase">
@@ -41,14 +40,13 @@ If you are interested in `ML`, `Software` or `Data Science` and you have [`Go`](
 <img src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?style=flat-square" alt="React Native">
 <img src="https://img.shields.io/badge/Framework-NextJS-111111?style=flat-square" alt="NextJS">
 <img src="https://img.shields.io/badge/Framework-ExpressJS-323232?style=flat-square" alt="ExpressJS">
-<img src="https://img.shields.io/badge/Framework-Flutter-085A9D?style=flat-square" alt="Flutter">
 </p>
 
 ### 🧠 Learning Timeline:
-Technologies I am interested in learning. More will be added as some are ticked off. These are ordered in terms of personal curiosity, their utility and the overall challenge.
+These are the technologies I am interested in learning. More will be added as some are ticked off. These are ordered in terms of personal curiosity, their utility and the overall challenge.
 
 <p display="inline-flex">
 <code>1.<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim"></code>
-<code>2.<img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust"></code>
-<code>3.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
+<code>2.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
+<code>3.<img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust"></code>
 </p>
