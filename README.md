@@ -6,7 +6,7 @@
 
 Thabang | 19 | MCR, UK - SF, USA
 
-Hey! My name is Thabang - pronounced 'Ta-bang' - I am a backend engineer with a keen eye for frontend design and application of intuitive state management
+Hey! My name is Thabang - pronounced 'Ta-bang' - I am a backend engineer with a keen eye for frontend design, along with elegant applications of intuitive state management.
 
 ### 🚀 Working On:
 I am currently working on [deploi.ai](https://github.com/deploiai).
