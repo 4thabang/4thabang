@@ -6,12 +6,12 @@
 
 Thabang | 19 | MCR, UK - SF, USA
 
-Hey! My name is Thabang - pronounced 'Ta-bang' - I am a backend engineer with a keen eye for frontend design, along with elegant applications of intuitive state management.
+Hey! My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer with a keen eye for frontend design, elegant applications of intuitive state management & scalable robust and secure backend infrastructures.
 
 ### 🚀 Working On:
-I am currently working on [deploi.ai](https://github.com/deploiai).
+I am currently working on something cool - TBA soon.
 <br/>
-If you are interested in `ML`, `Software` or `Data Science` and you have [`Go`](https://golang.org/), [`TypeScript`](https://www.typescriptlang.org/), [`React`](https://reactjs.org/), [`Python`](https://www.python.org/) or [`Docker`](https://www.docker.com/) experience - [get in touch](mailto:thabang@fordabl.com)!
+If you are interested in building the future and you have [`Go`](https://golang.org/), [`TypeScript`](https://www.typescriptlang.org/), [`React`](https://reactjs.org/) or [`Docker`](https://www.docker.com/) experience - [get in touch](mailto:thabang@fordabl.com)!
 
 [Comment]: <> (## 📨 Contact:)
 [Comment]: <> (https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square)
