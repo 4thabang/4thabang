@@ -13,12 +13,6 @@ I am currently working on something cool - TBA soon.
 <br/>
 If you are interested in building the future and you have [`Go`](https://golang.org/), [`TypeScript`](https://www.typescriptlang.org/), [`React`](https://reactjs.org/) or [`Docker`](https://www.docker.com/) experience - [get in touch](mailto:thabang@fordabl.com)!
 
-[Comment]: <> (## 📨 Contact:)
-[Comment]: <> (https://img.shields.io/badge/%F0%9F%90%A6%20twitter-purethabang-00aced?style=flat-square)
-[Comment]: <> (https://img.shields.io/badge/%F0%9F%8C%90%20company-fordabl-ff9a44?style=flat-square)
-[Comment]: <> (https://img.shields.io/badge/%F0%9F%93%A9%20email%20me-email%20address-D44638?style=flat-square)
-
-
 ### 👨‍💻 Technologies:
 <p display="inline-flex">
 <!--Programming Languages-->
@@ -46,8 +40,8 @@ If you are interested in building the future and you have [`Go`](https://golang.
 These are the technologies I am interested in learning. They are ordered in terms of personal curiosity, their utility and the overall challenge.
 
 <p display="inline-flex">
-<code>1.<img src="https://img.shields.io/badge/Tool-Kubernetes-326DE6?style=flat-square" alt="Kubernetes"></code>
-<code>2.<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim"></code>
+<code>1.<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim"></code>
+<code>2.<img src="https://img.shields.io/badge/Tool-Kubernetes-326DE6?style=flat-square" alt="Kubernetes"></code>
 <code>3.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
 <code>4.<img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust"></code>
 </p>
