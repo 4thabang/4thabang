@@ -11,7 +11,7 @@ Hey! My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer with
 ### 🚀 Working On:
 I am currently working on something cool - TBA soon.
 <br/>
-If you are interested in building the future alongside a dedicated team of young programmers and you have [`Go`](https://golang.org/), [`TypeScript`](https://www.typescriptlang.org/), [`React`](https://reactjs.org/) or [`Docker`](https://www.docker.com/) experience - [get in touch](mailto:thabang@fordabl.com)!
+If you are interested in building the future alongside a dedicated team of young programmers and you have [`Go`](https://golang.org/), [`TypeScript`](https://www.typescriptlang.org/), [`React`](https://reactjs.org/) or [`Docker`](https://www.docker.com/) experience (_**this list is non-exhaustive**_) - [get in touch](mailto:thabang@fordabl.com)!
 
 ### 👨‍💻 Technologies:
 <p display="inline-flex">
