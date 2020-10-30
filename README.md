@@ -6,7 +6,7 @@
 
 Thabang | 19 | MCR, UK - SF, USA
 
-Hey! My name is Thabang - pronounced 'Ta-ban' - I am a full-stack engineer with a keen eye for frontend design, elegant applications of intuitive state management & building scalable robust and secure backend infrastructures.
+Hey! My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer with a keen eye for frontend design, elegant applications of intuitive state management & building scalable robust and secure backend infrastructures.
 
 ### 🚀 Working On:
 I am currently working on something cool - TBA soon.
