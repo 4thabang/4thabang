@@ -19,7 +19,6 @@ If you are interested in building the future of ML/Ai alongside a dedicated team
 <img src="https://img.shields.io/badge/Lang-TypeScript-3278C6?style=flat-square" alt="TypeScript">
 <img src="https://img.shields.io/badge/Lang-Go-7FD5EA?style=flat-square" alt="GoLang">
 <img src="https://img.shields.io/badge/Lang-JavaScript-F8C751?style=flat-square" alt="Javascript">
-<img src="https://img.shields.io/badge/Lang-SQL-336791?style=flat-square" alt="SQL">
 <!--DBMS/DB-->
 <img src="https://img.shields.io/badge/DB-PostgresSQL-336791?style=flat-square" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/DB-Firebase-FFCB2B?style=flat-square" alt="Firebase">
@@ -41,7 +40,7 @@ These are the technologies I am interested in learning. They are ordered in term
 
 <p display="inline-flex">
 <code>1.<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim"></code>
-<code>2.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
-<code>3.<img src="https://img.shields.io/badge/Tool-Kubernetes-326DE6?style=flat-square" alt="Kubernetes"></code>
+<code>2.<img src="https://img.shields.io/badge/Tool-Kubernetes-326DE6?style=flat-square" alt="Kubernetes"></code>
+<code>3.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
 <code>4.<img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust"></code>
 </p>
