@@ -9,7 +9,7 @@ Thabang | 19 | MCR, UK - SF, USA
 Hey! My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer with a keen eye for frontend design, elegant applications of intuitive state management & building scalable robust and secure backend infrastructures.
 
 ### 🚀 Working On:
-I am currently working on something cool - TBA soon.
+I am currently working on deploi.ai
 <br/>
 If you are interested in building the future of ML/Ai alongside a dedicated team of young programmers and you have [`Go`](https://golang.org/), [`TypeScript`](https://www.typescriptlang.org/), [`React`](https://reactjs.org/), [`Python`](https://www.python.org/) or [`Docker`](https://www.docker.com/) experience (_**this list is non-exhaustive**_) - [get in touch](mailto:thabang@fordabl.com)!
 
