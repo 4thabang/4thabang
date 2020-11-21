@@ -11,7 +11,7 @@ Hey! My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer with
 ### 🚀 Working On:
 I am currently working on deploi.ai
 <br/>
-If you are interested in building the future of ML/Ai alongside a dedicated team of young programmers and you have [`Go`](https://golang.org/), [`TypeScript`](https://www.typescriptlang.org/), [`React`](https://reactjs.org/), [`Python`](https://www.python.org/) or [`Docker`](https://www.docker.com/) experience (_**this list is non-exhaustive**_) - [get in touch](mailto:thabang@fordabl.com)!
+If you are interested in changing the advent of Machine Learning alongside a dedicated team of young programmers and you have [`Go`](https://golang.org/), [`TypeScript`](https://www.typescriptlang.org/), [`React`](https://reactjs.org/), [`Python`](https://www.python.org/) or [`Docker`](https://www.docker.com/) experience (_**this list is non-exhaustive**_) - [get in touch](mailto:thabang@fordabl.com)!
 
 ### 👨‍💻 Technologies:
 <p display="inline-flex">
@@ -40,7 +40,7 @@ These are the technologies I am interested in learning. They are ordered in term
 
 <p display="inline-flex">
 <code>1.<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim"></code>
-<code>2.<img src="https://img.shields.io/badge/Tool-Kubernetes-326DE6?style=flat-square" alt="Kubernetes"></code>
-<code>3.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
+<code>2.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
+<code>3.<img src="https://img.shields.io/badge/Tool-Kubernetes-326DE6?style=flat-square" alt="Kubernetes"></code>
 <code>4.<img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust"></code>
 </p>
