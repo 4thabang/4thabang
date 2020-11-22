@@ -10,7 +10,7 @@ Hey! My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer with
 
 ### 🚀 Working On:
 I am currently working on deploi.ai. We are building infrastructure for ML teams to effortlessly deploy and monitor machine learning models that can be tested in staging environments in order to graciously train them alongside real-world data, all before deploying models into production.
-<br/>
+<br/><br/>
 If you are interested in changing the advent of Machine Learning alongside a dedicated team of young programmers and you have [`Go`](https://golang.org/), [`TypeScript`](https://www.typescriptlang.org/), [`React`](https://reactjs.org/), [`Python`](https://www.python.org/) or [`Docker`](https://www.docker.com/) experience (_**this list is non-exhaustive**_) - [get in touch](mailto:thabang@fordabl.com)!
 
 ### 👨‍💻 Technologies:
