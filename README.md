@@ -28,13 +28,12 @@ If you are interested in changing the advent of Machine Learning alongside a ded
 <!--Tool-->
 <img src="https://img.shields.io/badge/Tool-Redux-764ABC?style=flat-square" alt="Redux">
 <img src="https://img.shields.io/badge/Tool-Docker-369DED?style=flat-square" alt="Docker">
+<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim">
 <!--Frameworks-->
 <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square" alt="React">
 <img src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?style=flat-square" alt="React Native">
 <img src="https://img.shields.io/badge/Framework-NextJS-111111?style=flat-square" alt="NextJS">
 <img src="https://img.shields.io/badge/Framework-ExpressJS-323232?style=flat-square" alt="ExpressJS">
-  <!--Tools-->
-<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim">
 </p>
 
 ### 🧠 Learning Timeline:
