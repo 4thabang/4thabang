@@ -33,14 +33,15 @@ If you are interested in changing the advent of Machine Learning alongside a ded
 <img src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?style=flat-square" alt="React Native">
 <img src="https://img.shields.io/badge/Framework-NextJS-111111?style=flat-square" alt="NextJS">
 <img src="https://img.shields.io/badge/Framework-ExpressJS-323232?style=flat-square" alt="ExpressJS">
+  <!--Tools-->
+<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim">
 </p>
 
 ### 🧠 Learning Timeline:
 These are the technologies I am interested in learning. They are ordered in terms of personal curiosity, their utility and the overall challenge.
 
 <p display="inline-flex">  
-<code>1.<img src="https://img.shields.io/badge/Tool-Vim-009833?style=flat-square" alt="Vim"></code>
-<code>2.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
-<code>3.<img src="https://img.shields.io/badge/Tool-Kubernetes-326DE6?style=flat-square" alt="Kubernetes"></code>
-<code>4.<img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust"></code>
+<code>1.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
+<code>2.<img src="https://img.shields.io/badge/Tool-Kubernetes-326DE6?style=flat-square" alt="Kubernetes"></code>
+<code>3.<img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust"></code>
 </p>
