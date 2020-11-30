@@ -4,13 +4,13 @@
 
 ### 👋 About Me:
 
-Thabang | 19 | MCR, UK [**present**], SF, USA [**soon**]
+Thabang | 19 | MCR, UK / SF, USA
 
 Hey!<br/>
 My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer and brewing self-taught data scientist. Although, I tend to prefer building _**scalable**_, _**robust**_ and _**efficient**_ backend systems.
 
 ### 🚀 Working On:
-I am currently working on deploi.ai. We are building infrastructure for ML teams to effortlessly deploy and monitor their models while being tested in staging environments in order to validate model accuracy and gracefully train them alongside real-world data, all before deploying models into production.
+I am currently working on deploi.ai. We are building infrastructure for ML teams to effortlessly `deploy` and `monitor` their models while being tested in staging environments in order to validate model accuracy and gracefully train them alongside real-world data, all before deploying models into production.
 <br/><br/>
 If you are interested in changing the advent of Machine Learning alongside a dedicated team of young programmers, [get in touch](mailto:thabang@fordabl.com)!
 
