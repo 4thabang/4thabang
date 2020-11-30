@@ -4,14 +4,15 @@
 
 ### 👋 About Me:
 
-Thabang | 19 | MCR, UK - SF, USA
+Thabang | 19 | MCR, UK [**present**], SF, USA [**soon**]
 
-Hey! My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer with a keen eye for frontend design, elegant applications of intuitive state management & building scalable, robust and secure backend infrastructures.
+Hey!<br/>
+My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer and brewing self-taught data scientist. Although, I tend to prefer building _**scalable**_, _**robust**_ and _**efficient**_ backend systems.
 
 ### 🚀 Working On:
-I am currently working on deploi.ai. We are building infrastructure for ML teams to effortlessly deploy and monitor their models while being tested in staging environments in order to gracefully and accurately train them alongside real-world data, all before deploying models into production.
+I am currently working on deploi.ai. We are building infrastructure for ML teams to effortlessly deploy and monitor their models while being tested in staging environments in order to validate model accuracy and gracefully train them alongside real-world data, all before deploying models into production.
 <br/><br/>
-If you are interested in changing the advent of Machine Learning alongside a dedicated team of young programmers and you have [`Go`](https://golang.org/), [`TypeScript`](https://www.typescriptlang.org/), [`React`](https://reactjs.org/), [`Python`](https://www.python.org/) or [`Docker`](https://www.docker.com/) experience (_**this list is non-exhaustive**_) - [get in touch](mailto:thabang@fordabl.com)!
+If you are interested in changing the advent of Machine Learning alongside a dedicated team of young programmers, [get in touch](mailto:thabang@fordabl.com)!
 
 ### 👨‍💻 Technologies:
 <p display="inline-flex">
@@ -40,7 +41,7 @@ If you are interested in changing the advent of Machine Learning alongside a ded
 These are the technologies I am interested in learning. They are ordered in terms of personal curiosity, their utility and the overall challenge.
 
 <p display="inline-flex">  
-<code>1.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
-<code>2.<img src="https://img.shields.io/badge/Tool-Kubernetes-326DE6?style=flat-square" alt="Kubernetes"></code>
+<code>1.<img src="https://img.shields.io/badge/Tool-Kubernetes-326DE6?style=flat-square" alt="Kubernetes"></code>
+<code>2.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
 <code>3.<img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust"></code>
 </p>
