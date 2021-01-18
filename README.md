@@ -44,9 +44,9 @@ These are the technologies I am interested in learning. They are ordered in term
 <p display="inline-flex">  
 <code>1.<img src="https://img.shields.io/badge/Tool-Kubernetes-326DE6?style=flat-square" alt="Kubernetes"></code>
 <code>2.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
-<code>3.<img src="https://img.shields.io/badge/Lang-NumPy-4A74CA?style=flat-square" alt="NumPy"></code>
-<code>4.<img src="https://img.shields.io/badge/Lang-PyTorch-9328B3?style=flat-square" alt="PyTorch"></code>
-<code>5.<img src="https://img.shields.io/badge/Lang-Keras-D00600?style=flat-square" alt="Keras"></code>
-<code>6.<img src="https://img.shields.io/badge/Lang-SciKit Learn-F19636?style=flat-square" alt="SciKit Learn"></code>
+<code>3.<img src="https://img.shields.io/badge/Tool-NumPy-4A74CA?style=flat-square" alt="NumPy"></code>
+<code>4.<img src="https://img.shields.io/badge/Tool-PyTorch-9328B3?style=flat-square" alt="PyTorch"></code>
+<code>5.<img src="https://img.shields.io/badge/Tool-Keras-D00600?style=flat-square" alt="Keras"></code>
+<code>6.<img src="https://img.shields.io/badge/Tool-SciKit Learn-F19636?style=flat-square" alt="SciKit Learn"></code>
 <code>7.<img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust"></code>
 </p>
