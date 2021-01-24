@@ -10,8 +10,8 @@ Hey!<br/>
 My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer and brewing self-taught data scientist. Although, you'll most likely find me building _**scalable**_, _**robust**_ and _**efficient**_ backend systems.
 
 ### 🚀 Working On:
-I am currently working on [_**deploi.ai**_](https://deploi.ai).<br/>
-We are building infrastructure for ML teams to effortlessly `deploy` and `monitor` their models while being tested in staging environments in order to validate model accuracy and gracefully train them alongside real-world data, all before deploying models into production.
+I am currently working on [_**deploi.ai**_](https://deploi.ai).<br/><br/>
+We are building infrastructure for teams to effortlessly `deploy`, `test`, and `monitor` their Machine Learning models in collaborative staging environments in order to validate model accuracy and train them alongside real-world data, all before deploying a model into production.
 <br/><br/>
 If you are interested in changing the advent of Machine Learning alongside a dedicated team of young programmers, [get in touch](mailto:thabang@fordabl.com)!
 
