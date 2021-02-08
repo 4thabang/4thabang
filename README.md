@@ -43,6 +43,7 @@ These are the technologies I am interested in learning. They are ordered in term
 
 <p display="inline-flex">  
 <code>1.<img src="https://img.shields.io/badge/Tool-Kubernetes-326DE6?style=flat-square" alt="Kubernetes"></code>
+<code>2.<img src="https://img.shields.io/badge/Framework-gRPC-0CC1C8?style=flat-square" alt="gRPC"></code>
 <code>2.<img src="https://img.shields.io/badge/Lang-Python-408BC5?style=flat-square" alt="Python"></code>
 <code>3.<img src="https://img.shields.io/badge/Tool-NumPy-4A74CA?style=flat-square" alt="NumPy"></code>
 <code>4.<img src="https://img.shields.io/badge/Tool-PyTorch-9328B3?style=flat-square" alt="PyTorch"></code>
