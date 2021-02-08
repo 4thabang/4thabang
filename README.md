@@ -7,7 +7,7 @@
 Thabang | 19 | MCR, UK
 
 Hey!<br/>
-My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer and brewing self-taught data scientist. Although, you'll most likely find me building _**scalable**_, _**robust**_ and _**efficient**_ backend systems.
+My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer and brewing self-taught data scientist, systems engineer and DevOps geek. You'll most likely find me building _**scalable**_, _**robust**_ and _**efficient**_ backend systems.
 
 ### 🚀 Working On:
 I am currently working on [_**deploi.ai**_](https://deploi.ai).<br/><br/>
