@@ -4,7 +4,7 @@
 
 ### 👋 About Me:
 
-Thabang | 20 | MCR, UK
+Thabang | 20 | MCR, UK | **Read my sidebar to know why I don't code daily atm.**
 
 Hey!<br/>
 My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer and brewing self-taught data scientist, systems engineer and DevOps geek. You'll most likely find me building _**scalable**_, _**robust**_ and _**efficient**_ backend systems.
