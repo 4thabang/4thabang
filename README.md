@@ -21,6 +21,7 @@ If you are interested in changing the advent of Machine Learning alongside a ded
 <img src="https://img.shields.io/badge/Lang-TypeScript-3278C6?style=flat-square" alt="TypeScript">
 <img src="https://img.shields.io/badge/Lang-Go-7FD5EA?style=flat-square" alt="GoLang">
 <img src="https://img.shields.io/badge/Lang-JavaScript-F8C751?style=flat-square" alt="Javascript">
+<img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust">
 <!--DBMS/DB-->
 <img src="https://img.shields.io/badge/DB-PostgresSQL-336791?style=flat-square" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/DB-Firebase-FFCB2B?style=flat-square" alt="Firebase">
