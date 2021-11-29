@@ -4,16 +4,13 @@
 
 ### 👋 About Me:
 
-Thabang | 20 | MCR, UK | **Read my sidebar to know why I don't code daily atm.**
-
-Hey!<br/>
-My name is Thabang - pronounced 'Ta-bang' - I am a full-stack engineer and brewing self-taught data scientist, systems engineer and DevOps geek. You'll most likely find me building _**scalable**_, _**robust**_ and _**efficient**_ backend systems.
+My name is Thabang. I am a startup founder currently working on lower level infrastructure technology in the machine learning operations (MLOps) space.
 
 ### 🚀 Working On:
 I am currently working on [_**deploi.ai**_](https://deploi.ai).<br/><br/>
-We are building infrastructure for teams to effortlessly `deploy`, `test`, and `monitor` their Machine Learning models in collaborative staging environments in order to validate model accuracy and train them alongside real-world data, all before deploying a model into production.
+We are building infrastructure for teams to effortlessly `deploy`, `test`, and `monitor` their machine learning and deep learning models in collaborative staging environments in order to validate model accuracy, eradicate data bias, reduce model drift and train alongside real-world data, all before deploying a model into production.
 <br/><br/>
-If you are interested in changing the advent of Machine Learning alongside a dedicated team of young programmers, [get in touch](mailto:thabang@fordabl.com)!
+If you are interested in changing the advent of machine learning alongside a dedicated team of young visionaries, [get in touch](mailto:thabang@fordabl.com)!
 
 ### 👨‍💻 Technologies:
 <p display="inline-flex">
@@ -21,7 +18,6 @@ If you are interested in changing the advent of Machine Learning alongside a ded
 <img src="https://img.shields.io/badge/Lang-TypeScript-3278C6?style=flat-square" alt="TypeScript">
 <img src="https://img.shields.io/badge/Lang-Go-7FD5EA?style=flat-square" alt="GoLang">
 <img src="https://img.shields.io/badge/Lang-JavaScript-F8C751?style=flat-square" alt="Javascript">
-<img src="https://img.shields.io/badge/Lang-Rust-F14A00?style=flat-square" alt="Rust">
 <!--DBMS/DB-->
 <img src="https://img.shields.io/badge/DB-PostgresSQL-336791?style=flat-square" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/DB-Firebase-FFCB2B?style=flat-square" alt="Firebase">
