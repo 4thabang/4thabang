@@ -13,4 +13,4 @@ We are building infrastructure for teams to effortlessly `deploy`, `test`, and `
 If you are interested in changing the advent of machine learning alongside a dedicated team of young visionaries, [get in touch](mailto:thabang@fordabl.com)!
 
 ### 🌄 Our Mission:
-Our mission is to aid progress toward faultless ML & DL models for a safer and more autonomous future by starting at the infrastructure level.
+Our mission is to aid progress toward faultless machine learning & deep learning models for a safer and more autonomous future by starting at the infrastructure level.
