@@ -1,6 +1,7 @@
+![4thabang]()
 <!--
 **4thabang/4thabang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 ### 👋 About Me:
 
@@ -14,3 +15,4 @@ If you are interested in changing the advent of machine learning alongside a ded
 
 ### 🌄 Our Mission:
 Our mission is to aid progress toward faultless machine learning & deep learning models for a safer and more autonomous future by starting at the infrastructure level.
+-->
