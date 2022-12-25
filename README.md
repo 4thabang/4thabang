@@ -1,4 +1,4 @@
-![4thabang](https://github.com/4thabang/4thabang/blob/master/github-banner-1.png?raw=true)
+![4thabang](https://github.com/4thabang/4thabang/blob/master/github-banner-newest.png?raw=true)
 
 <p align="center">
   <a href="mailto:tsomkanda@gmail.com" target="_blank">
